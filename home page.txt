@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>Home page</title>
+<link rel="stylesheet" type="text/css" href=" "> 
+<script type="text/javascript">
+</script>
+</head>
+
+<body>
+<section><input type = "search"></section>
+<nav>
+<ul>
+<li><a href ="homepage.html">Home</a></li>
+<li><a href ="#">Recommended</a></li>
+<li><a href ="#">Coming soon</a></li>
+<li><a href ="#">Log out</a></li>
+</ul>
+</nav>
+
+
+
+</body>
+</html>
